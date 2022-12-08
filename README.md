@@ -1,12 +1,16 @@
-# Polifante1.0
-This is a virtual machine with Ubuntu, Hadoop, Spark, Hive, MongoDB, and Jupyter
+Download link:
+http://bit.ly/Polifante
+
 Polifante version 1.0.0
 «Copyright 2022»      
 This virtual machine was created exclusively for academic and test purposes.
 This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
     This is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
     You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>. 
-
+Minimal Requirements
+2 CPUs
+6 GB RAM
+40 GB Storage
 Instructions
 1. This VM was installed with Ubuntu Server 22.04.1 LT release and the following packages:
 •	Anaconda 3
@@ -34,7 +38,7 @@ A single datanode is configured, but there are no constraints on adding addition
 	Next, open the URL in the browser, such as:
 	http://127.0.0.1:8888
 Note:
-Drag & Drop, Copy & Paste is available after activation in the hypervisor.
+Drag & Drop, Copy & Paste is available after activation in the used hypervisor.
  
 
 
